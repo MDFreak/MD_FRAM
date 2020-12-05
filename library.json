@@ -1,0 +1,27 @@
+{
+  "name": "md_FRAM",
+  "version": "1.0.0",
+  "description": "Library for usage of a FRAM using I2C ",
+  "keywords": "FRAM, , ",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "authors":
+  [
+    {
+      "name": "Martin Dorfner",
+      "email": "inbox2@martin-dorfner.at",
+      "url": "https://martin-dorfner.at"
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://www.martin-dorfner.at/",
+  "dependencies": {
+    "ownername/print": "~1.0.0"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
